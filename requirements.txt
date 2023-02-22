@@ -1,0 +1,6 @@
+gradescope-utils
+numpy
+h5py
+scipy
+
+
